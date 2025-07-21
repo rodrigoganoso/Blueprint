@@ -1,7 +1,9 @@
 ---
-title: 'Module 4: Correlation'
+title: 'Module 5: Correlation'
 author: "Ian Eykamp"
+Modified: "Rodrigo Gonzalez-A"
 date: "10/12/2021"
+Mod date: 06/30/2025
 output: html_document
 editor_options: 
   markdown: 
@@ -17,7 +19,7 @@ pacman::p_load(pacman, tidyverse, magrittr, knitr)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Clone the repo from <https://github.com/ianeyk/Blueprint-Modules.git>
+Clone the repo from <https://github.com/rodrigoganoso/Blueprint.git>
 and load the file "pmComparison.RData"
 
 ```{r load}
