@@ -1,7 +1,9 @@
 ---
 title: "RSQLite Example Queries"
 author: "Ian Eykamp"
+modified by" Rodrigo Gonzalez-Abraham
 date: "11/29/2021"
+mod date: "06/30/2025/
 output: html_document
 editor_options: 
   markdown: 
@@ -10,7 +12,7 @@ editor_options:
 
 ## 4.3.1 Setup
 
-Run the code chunk below to connect to the `sensorbot.db` database file.
+Run the code chunk below to connect to the `latest.db` database file.
 We will run queries on the Sensorbot database using SQL commands.
 
 ```{r}
